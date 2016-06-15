@@ -1,4 +1,5 @@
 == README
+https://codeclimate.com/repos/5761267265e19c678d0061ad/code
 
 Things you may want to cover:
 
